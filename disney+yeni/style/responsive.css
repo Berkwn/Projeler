@@ -1,0 +1,183 @@
+@media screen and (max-width:500px) {
+
+   
+    .on-taraf-resim-1{
+        height: 400px;
+        background-repeat: no-repeat;
+        background-size: 500px;    
+        background-image: url(
+            https://cnbl-cdn.bamgrid.com/assets/f2c4870c2d8dceeeaed7570278ab5e06e9c2568317d7a3b156132648011b189c/original
+        );
+
+
+       
+        
+    }
+
+    .resim-3-ic{
+        font-size: 10px;
+    }
+
+    .resim-3-ic .p1{
+
+        font-size: 15px;
+
+    }
+
+    .resim-3-ic .p2{
+
+        font-size: 10px;
+    }
+
+    
+
+    
+
+    .yazı-tarafi {
+        margin-top: 0;
+        font-size: 20px;
+        margin-top: 0;
+    }
+
+    .yazı-tarafi  {
+        font-size: 20px;
+        margin-top: 200px;
+        text-align: center;
+        margin-bottom: 15px;
+      
+    }
+
+    .yazı-tarafi button{
+        width: 50%;
+
+    }
+
+    .body-content-h1 {
+        font-size: 3vw;
+        width: 50%;
+        margin-bottom: 01rem;
+      }
+    
+      .spacer-r {
+        display: none;
+      }
+    
+      .body-content-p {
+        font-size: 1.7vw;
+        margin-bottom: 4rem;
+      }
+
+
+      .bölüm-4{
+        flex-direction: column;
+      }
+    
+
+      .flex-ul-2{
+            font-size: 10px;
+            justify-content: center;
+        flex-direction: column;
+      }
+
+      .flex-ul-1{
+        font-size: 10px;
+        justify-content: center;
+      flex-direction: column;
+      }
+
+      .ortalama img{
+        width: 40%;
+
+
+      }
+
+      .uye-ol{
+        cursor: pointer;
+        padding: 5px;
+       height: 20px;
+       font-size: 10px;
+      }
+
+      
+      .giris-yap{
+        cursor: pointer;
+        padding: 5px;
+       height: 20px;
+       font-size: 10px;
+      }
+      .son-kısım *{
+        display: flex;
+       width: 100%;
+      font-size: 10px;
+            
+      }
+
+      .son-kısım li{
+
+        width: 10%;
+      }
+
+      .div1{
+        width: 100%;
+        font-size: 10px;
+        margin-bottom: 20px;
+      }
+
+      .div1 img{
+    
+        margin: auto;
+      }
+
+      .div2{
+        
+        font-size: 10px;
+        margin-bottom: 20px;
+      }
+
+      .div3{
+        
+        font-size: 10px;
+        margin-bottom: 20px;
+      }
+
+      
+
+      .son-yazı p{
+
+        font-size: 10px;
+      }
+
+      .ozel{
+
+        font-size: 10px;
+      }
+
+
+      
+    
+
+
+
+
+
+    
+  
+
+  
+}
+
+@media screen and (max-width:768px) {
+
+   
+    .on-taraf-resim-1{
+        
+        background-size: 600px;
+        background-repeat: no-repeat;
+        background-image: url(
+            https://cnbl-cdn.bamgrid.com/assets/cde3482cf3842b2b1d45e940786987786daedc1ca09ece042330bbceac743270/original
+           
+        );
+    }
+}
+
+
